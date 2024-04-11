@@ -4,7 +4,6 @@
 
 The project was built using React JS and Tailwind CSS.
 
-project live link : https://neura-2k23.netlify.app/
 
 Landing page :
 
