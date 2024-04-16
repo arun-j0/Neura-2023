@@ -1,3 +1,5 @@
+The site is live at : https://neurademo2k23.netlify.app/
+
 # Neura
 
   Neura is a National - level Technical Symposium conducted by the Department of Information Technology of PTU every two years. This repo holds the full code of the website created for Neura 2k23. This website makes it ease for the participants to know the rules and details about the events to be conducted.
